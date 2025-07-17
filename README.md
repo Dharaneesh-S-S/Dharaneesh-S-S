@@ -36,12 +36,13 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharaneesh-S-S&show_icons=true&theme=dark" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaneesh-S-S&layout=compact&theme=dark" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharaneesh-S-S&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaneesh-S-S&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharaneesh-S-S&theme=dark" alt="GitHub Streak" width="90%">
+  <!-- Fixed GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Dharaneesh-S-S&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="90%">
 </div>
 
 ## ✍️ Dev Quote:
