@@ -45,9 +45,8 @@
 </div>
 
 ## 💡 Technical Wisdom:
-> *"First, solve the problem. Then, write the code."*  
-> **— John Johnson**  
-> *(This reflects the importance of proper planning before implementation)*
+> ***"First, solve the problem. Then, write the code."***  
+> **— John Johnson**
 ---
 [![](https://visitcount.itsvg.in/api?id=Dharaneesh-S-S&icon=0&color=0)](https://visitcount.itsvg.in)
 
