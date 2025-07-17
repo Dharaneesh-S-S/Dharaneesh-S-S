@@ -44,9 +44,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharaneesh-S-S&theme=dark" alt="GitHub Streak" width="90%">
 </div>
 
-## ✍️ Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+## 💡 Technical Wisdom:
+> *"First, solve the problem. Then, write the code."*  
+> **— John Johnson**  
+> *(This reflects the importance of proper planning before implementation)*
 ---
 [![](https://visitcount.itsvg.in/api?id=Dharaneesh-S-S&icon=0&color=0)](https://visitcount.itsvg.in)
 
