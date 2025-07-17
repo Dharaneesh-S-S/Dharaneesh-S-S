@@ -36,22 +36,16 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharaneesh-S-S&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharaneesh-S-S&theme=dark&hide_border=false" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharaneesh-S-S&show_icons=true&theme=dark" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaneesh-S-S&layout=compact&theme=dark" alt="Top Languages" width="48%">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharaneesh-S-S&theme=react-dark" alt="GitHub Activity Graph" width="90%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharaneesh-S-S&theme=dark" alt="GitHub Streak" width="90%">
 </div>
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Dharaneesh-S-S&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## ✍️ Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=Dharaneesh-S-S&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dharaneesh-S-S&icon=0&color=0)](https://visitcount.itsvg.in)
